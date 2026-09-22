@@ -1,0 +1,4 @@
+for each--start: 打开添加项目页
+for each--end: 后置操作
+capture_screenshot:True
+-----------------test-results\cases-more-accounts-test-x-py-testmoreaccounts-test-delete-project-chromium\test-failed-1.png

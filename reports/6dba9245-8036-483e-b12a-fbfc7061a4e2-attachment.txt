@@ -1,0 +1,5 @@
+for each--start: 打开添加项目页
+新增项目名称: cfd983b56f7e4cebbe9754162
+获取页面 table 表格-项目名称列全部内容: ['cfd983b56f7e4cebbe9754162', '9fe5aa8634be4780a27c51db2', '7587291149744b2faf34d44ba', '97e20213d50246e3b36da8298', 'ef7eceb4183346ac90a67dbe4', '2c620e4b27d545018ea0224dd', '54958bea4e124919aff5f5494', '15a787ccb55a45fe80451c77c', '6d037ffcd079478d89eadf5ce', '1e6ddd6669f2451abf03d7b3f', '6de246496bad48c78131a8fe3', '594515e36f1943d890229ef1b', '024a96b782be4668b6f150cf5', '8105d4e43da943c5bbe2b9970', 'bba6e892868c48b8950010bb2']
+for each--end: 后置操作
+capture_screenshot:False

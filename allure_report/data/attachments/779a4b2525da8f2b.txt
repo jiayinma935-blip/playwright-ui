@@ -1,0 +1,2 @@
+INFO     pytest_result_log:plugin.py:122 Start: cases/test_env_list.py::TestEnvList::test_add_env_address_invalid[chromium-httpsx://]
+INFO     pytest_result_log:plugin.py:128 End: cases/test_env_list.py::TestEnvList::test_add_env_address_invalid[chromium-httpsx://]

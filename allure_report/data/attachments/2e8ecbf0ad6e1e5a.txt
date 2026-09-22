@@ -1,0 +1,2 @@
+INFO     pytest_result_log:plugin.py:122 Start: cases/more_accounts/test_x.py::TestMoreAccounts::test_delete_project[chromium]
+INFO     pytest_result_log:plugin.py:128 End: cases/more_accounts/test_x.py::TestMoreAccounts::test_delete_project[chromium]

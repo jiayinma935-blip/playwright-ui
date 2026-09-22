@@ -1,0 +1,4 @@
+for each--start: 打开项目列表页
+http://47.116.12.183/api/project?page=1&size=15&project_name=&_=1756956294959
+for each--end: 后置操作
+capture_screenshot:False

@@ -1,0 +1,7 @@
+for each--start: 打开新页面访问登录页
+<Response url='http://47.116.12.183/api/login' request=<Request url='http://47.116.12.183/api/login' method='POST'>>
+http://47.116.12.183/api/login
+200
+True
+for each--end: 后置操作
+capture_screenshot:False

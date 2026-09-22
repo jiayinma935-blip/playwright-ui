@@ -1,0 +1,2 @@
+INFO     pytest_result_log:plugin.py:122 Start: cases/test_login.py::TestLogin::test_login_error[chromium-py-12345678-\u8f93\u5165\u9519\u8bef\u7684\u5bc6\u7801]
+INFO     pytest_result_log:plugin.py:128 End: cases/test_login.py::TestLogin::test_login_error[chromium-py-12345678-\u8f93\u5165\u9519\u8bef\u7684\u5bc6\u7801]

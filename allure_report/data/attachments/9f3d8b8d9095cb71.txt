@@ -1,0 +1,2 @@
+INFO     pytest_result_log:plugin.py:122 -Start: cases/test_project_list.py::TestProjectList::test_table_link[chromium]--
+INFO     pytest_result_log:plugin.py:128 --End: cases/test_project_list.py::TestProjectList::test_table_link[chromium]---

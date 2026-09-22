@@ -1,0 +1,2 @@
+INFO     pytest_result_log:plugin.py:122 Start: cases/test_add_project.py::TestAddProject::test_add_project_disabled[chromium-abc-aa!@-]
+INFO     pytest_result_log:plugin.py:128 End: cases/test_add_project.py::TestAddProject::test_add_project_disabled[chromium-abc-aa!@-]
